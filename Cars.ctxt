@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cars
+comment0.text=\ create\ a\ Cars\ clas\r\n
+comment1.params=carRego\ carOwner\ slot
+comment1.target=Cars(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRego()
+comment3.params=
+comment3.target=java.lang.String\ getOwnerType()
+comment4.params=
+comment4.target=java.lang.String\ getSlotID()
+comment5.params=newRego
+comment5.target=void\ setRego(java.lang.String)
+comment6.params=newOwner
+comment6.target=void\ setOwnerType(java.lang.String)
+comment7.params=newSlotID
+comment7.target=void\ setSlotID(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
